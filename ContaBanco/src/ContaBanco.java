@@ -20,7 +20,7 @@ public class ContaBanco {
         agencia= scan.nextLine();
         System.out.println("\n");
 
-        System.out.println("Informe seu NÚMERO E CONTA: ");
+        System.out.println("Informe seu NÚMERO DE CONTA: ");
         numeroConta= scan.nextLine();
         System.out.println("\n");
 
