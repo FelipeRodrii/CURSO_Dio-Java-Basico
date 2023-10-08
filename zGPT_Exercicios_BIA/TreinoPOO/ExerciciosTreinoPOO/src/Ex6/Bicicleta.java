@@ -1,6 +1,6 @@
 package Ex6;
 
-public class Bicicleta{
+public class Bicicleta extends Veiculo{
     double preco = 2000;
 
 
